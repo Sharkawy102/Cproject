@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1660740491 source:j:\embedded system\project_c(round 3)\func.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	"dataType.h"
+
+1660743112 j:\embedded system\project_c(round 3)\datatype.h
+
+1660694226 source:j:\embedded system\project_c(round 3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dataType.h"
+
